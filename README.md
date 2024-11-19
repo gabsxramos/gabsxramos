@@ -3,7 +3,6 @@
 Ola! Eu me chamo Gabriela e estou cursando **Engenharia da Computação** na UTFPR.
 <br/>
 
----
 
 ### Linguagens e Tecnologias
 
@@ -107,7 +106,6 @@ align="left"
 <br/>
 <br/>
 
----
 
 ### Estatísticas
 
@@ -115,7 +113,7 @@ align="left"
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabsxramos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -123,7 +121,7 @@ align="left"
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsxramos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
