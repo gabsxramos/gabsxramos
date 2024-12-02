@@ -4,7 +4,7 @@ Hi! My name is Gabriela and and I study **Computer Engineering**.
 <br/>
 
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
  align="left" 
@@ -107,7 +107,7 @@ align="left"
 <br/>
 
 
-### Estatísticas
+### Statistics
 
 <p>
   <img 
