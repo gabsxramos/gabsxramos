@@ -1,6 +1,6 @@
 # Gabriela Ramos
 
-Ola! Eu me chamo Gabriela e estou cursando **Engenharia da Computação** na UTFPR.
+Hi! My name is Gabriela and and I study **Computer engineering**.
 <br/>
 
 
