@@ -1,6 +1,6 @@
 # Gabriela Ramos
 
-Hi! My name is Gabriela and and I study **Computer engineering**.
+Hi! My name is Gabriela and and I study **Computer Engineering**.
 <br/>
 
 
