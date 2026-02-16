@@ -114,19 +114,8 @@ align="left"
 ### Statistics
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gabsxramos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-  src="https://github-readme-stats.vercel.app/api?gabsxramos=anuraghazra&show_icons=true&theme=transparent"
-  />
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 </p>
