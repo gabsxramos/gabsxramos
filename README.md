@@ -114,6 +114,6 @@ align="left"
 ### Statistics
 
 <p align="center">
-  <img src="./profile/stats.svg" width="200px" />
-  <img src="./profile/top-langs.svg" width="200px" />
+  <img src="./profile/stats.svg" width="300px"  height="300px"/>
+  <img src="./profile/top-langs.svg" width="300px" height="300px"/>
 </p>
