@@ -200,7 +200,7 @@
           data-testid="lang-progress"
           x="249.91000000000003"
           y="0"
-          width="10.09"
+          width="10.1"
           height="8"
           fill="#e34c26"
         />
@@ -211,7 +211,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 99.24%
+        Jupyter Notebook 99.23%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
